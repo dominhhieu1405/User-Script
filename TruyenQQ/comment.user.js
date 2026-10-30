@@ -1,15 +1,15 @@
 // ==UserScript==
-// @name         TruyenQQ - Chọn phạm vi bình luận
+// @name         TruyenQQ - Hiển thị tất cả bình luận
 // @namespace    https://truyenqqko.com/
 // @version      1.0.2
-// @description  Chuyển giữa bình luận của trang hiện tại và tất cả bình luận của truyện.
+// @description  Hiển thị tất cả bình luận truyenqq
 // @author       Luce
 // @match        https://truyenqqko.com/truyen-tranh/*
 // @match        https://www.truyenqqko.com/truyen-tranh/*
 // @match        https://truyenggvn.com/truyen-tranh/*
 // @match        https://www.truyenggvn.com/truyen-tranh/*
-// @updateURL    https://raw.githubusercontent.com/dominhhieu1405/User-Script/refs/heads/main/TruyenQQ/comment.js
-// @downloadURL  https://raw.githubusercontent.com/dominhhieu1405/User-Script/refs/heads/main/TruyenQQ/comment.js
+// @updateURL    https://raw.githubusercontent.com/dominhhieu1405/User-Script/refs/heads/main/TruyenQQ/comment.user.js
+// @downloadURL  https://raw.githubusercontent.com/dominhhieu1405/User-Script/refs/heads/main/TruyenQQ/comment.user.js
 // @run-at       document-idle
 // @grant        unsafeWindow
 // ==/UserScript==
