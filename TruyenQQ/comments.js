@@ -1,4 +1,3 @@
-
 // ==UserScript==
 // @name         TruyenQQ - Chọn phạm vi bình luận
 // @namespace    https://truyenqqko.com/
