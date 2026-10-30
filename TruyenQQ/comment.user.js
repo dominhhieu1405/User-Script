@@ -1,17 +1,25 @@
 // ==UserScript==
-// @name         TruyenQQ - Hiển thị tất cả bình luận
-// @namespace    https://truyenqqko.com/
-// @version      1.0.2
-// @description  Hiển thị tất cả bình luận truyenqq
-// @author       Luce
-// @match        https://truyenqqko.com/truyen-tranh/*
-// @match        https://www.truyenqqko.com/truyen-tranh/*
-// @match        https://truyenggvn.com/truyen-tranh/*
-// @match        https://www.truyenggvn.com/truyen-tranh/*
-// @updateURL    https://raw.githubusercontent.com/dominhhieu1405/User-Script/refs/heads/main/TruyenQQ/comment.user.js
-// @downloadURL  https://raw.githubusercontent.com/dominhhieu1405/User-Script/refs/heads/main/TruyenQQ/comment.user.js
-// @run-at       document-idle
-// @grant        unsafeWindow
+// @name            TruyenQQ - Chọn phạm vi bình luận
+// @namespace       https://truyenqqko.com/
+// @version         1.0.2
+// @description     Chuyển đổi giữa bình luận của trang hiện tại và toàn bộ bình luận của truyện.
+// @description:vi  Chọn xem bình luận của chapter hiện tại hoặc tất cả chapter trong truyện.
+// @author          Luce
+// @copyright       Luce
+// @license         MIT
+// @homepageURL     https://github.com/dominhhieu1405/User-Script
+// @supportURL      https://github.com/dominhhieu1405/User-Script/issues
+// @match           https://truyenqqko.com/truyen-tranh/*
+// @match           https://www.truyenqqko.com/truyen-tranh/*
+// @match           https://truyenggvn.com/truyen-tranh/*
+// @match           https://www.truyenggvn.com/truyen-tranh/*
+// @compatible      chrome
+// @compatible      edge
+// @compatible      firefox
+// @run-at          document-idle
+// @grant           unsafeWindow
+// @updateURL       https://raw.githubusercontent.com/dominhhieu1405/User-Script/refs/heads/main/TruyenQQ/comment.user.js
+// @downloadURL     https://raw.githubusercontent.com/dominhhieu1405/User-Script/refs/heads/main/TruyenQQ/comment.user.js
 // ==/UserScript==
 
 (function () {
