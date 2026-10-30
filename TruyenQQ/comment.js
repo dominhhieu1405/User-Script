@@ -8,8 +8,8 @@
 // @match        https://www.truyenqqko.com/truyen-tranh/*
 // @match        https://truyenggvn.com/truyen-tranh/*
 // @match        https://www.truyenggvn.com/truyen-tranh/*
-// @updateURL    https://raw.githubusercontent.com/dominhhieu1405/User-Script/refs/heads/main/TruyenQQ/comments.js
-// @downloadURL  https://raw.githubusercontent.com/dominhhieu1405/User-Script/refs/heads/main/TruyenQQ/comments.js
+// @updateURL    https://raw.githubusercontent.com/dominhhieu1405/User-Script/refs/heads/main/TruyenQQ/comment.js
+// @downloadURL  https://raw.githubusercontent.com/dominhhieu1405/User-Script/refs/heads/main/TruyenQQ/comment.js
 // @run-at       document-idle
 // @grant        unsafeWindow
 // ==/UserScript==
